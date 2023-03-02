@@ -159,6 +159,13 @@
 
 ***
 
+
+
+</details>
+<details>
+<sumarry> Полле ввода Часов </sumarry> 
+
+(https://github.com/WhiteAleksandr/QA-portfolio/blob/f8e984ef7b01cbbbeebed23d31efab8185e3f23d/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-04%20%D0%B2%2013.15.01.png) 
 </details>
 
 
