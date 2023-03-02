@@ -177,6 +177,7 @@
 <summary>Поле ввода часов</summary>
 
 ***
+<img width="453" alt="Сприн первый полле ввода часов" src="https://user-images.githubusercontent.com/126310621/222412163-f5515770-5c15-4deb-ad7c-6d6a6d19ceab.png">
 
 
 
@@ -189,6 +190,7 @@
 
 <details>
 <summary>Поле ввода минут</summary>
+<img width="450" alt="спринт 1 поле ввода минут " src="https://user-images.githubusercontent.com/126310621/222413065-1ef3abdc-bde1-42eb-8f60-8dc9d90d6457.png">
 
 
 
@@ -200,6 +202,8 @@
 
 <details>
 <summary>Поля ввода адреса (Откуда, Куда)</summary>
+<img width="451" alt="Спринт 1 поле ввода откуда " src="https://user-images.githubusercontent.com/126310621/222413121-34797be9-06d3-4977-a876-55f25a491a6d.png">
+<img width="451" alt="Спринт 1 поле ввода куда " src="https://user-images.githubusercontent.com/126310621/222413143-40e2a648-4882-4164-bd76-da3390d9b1ff.png">
 
           
 
