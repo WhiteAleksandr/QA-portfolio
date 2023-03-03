@@ -612,18 +612,25 @@ Firefox при разрешении экрана 1920x1080.<br>
 
 </details>
 <details> 
- <p> </p>
+ <p>Часть 1. Чек лист  способ оплаты и добавление карты  </p>
+ <img width="868" alt="Снимок экрана 2023-03-05 в 19 13 10" src="https://user-images.githubusercontent.com/126310621/222717220-7169fbed-eef6-40c3-9163-bb7c5e2b4bec.png">
+<img width="869" alt="Снимок экрана 2023-03-05 в 19 13 40" src="https://user-images.githubusercontent.com/126310621/222717342-50be077d-c468-47f3-b481-90d4145dc375.png">
+
 
 </details>
 <details> 
- <p> </p>
+<p>Часть 1. тест кейсы на кнопку "Забронировать"</p>
+<img width="1070" alt="Снимок экрана 2023-03-05 в 19 15 19" src="https://user-images.githubusercontent.com/126310621/222717635-2ca3f045-de8f-4b02-9be8-5ca8170a2261.png">
+
 
 </details>
 <details> 
- <p> </p>
+ <p> Часть 1. Тест кейсы на логику фукнциональности бронирования </p>
+<img width="861" alt="Снимок экрана 2023-03-05 в 19 16 44" src="https://user-images.githubusercontent.com/126310621/222717912-f2132f53-8025-4080-be8e-eef828b79378.png">
 
 </details>
 <details> 
- <p> </p>
+ <p>Часть 2. Чек-лист для Аэротакси </p>
+<img width="882" alt="Снимок экрана 2023-03-05 в 19 18 19" src="https://user-images.githubusercontent.com/126310621/222718199-21753b9c-1c94-4e55-9044-039ae5574e53.png">
 
 </details>
