@@ -597,3 +597,33 @@ Firefox при разрешении экрана 1920x1080.<br>
 
           
 </details>
+
+<br> Решение </br>
+
+
+<details> 
+<p>Часть 1. Чек-лист на верстку </p>
+<img width="1027" alt="Снимок экрана 2023-03-05 в 18 42 09" src="https://user-images.githubusercontent.com/126310621/222711655-5d231ab7-3f6d-4105-8751-f58c85f516be.png">
+<img width="1025" alt="Снимок экрана 2023-03-05 в 18 43 12" src="https://user-images.githubusercontent.com/126310621/222711823-6d716bbf-7040-4619-8e95-45371528bf24.png">
+<img width="1029" alt="Снимок экрана 2023-03-05 в 18 43 48" src="https://user-images.githubusercontent.com/126310621/222711977-4965bb26-37cc-455f-85b7-037fec9e4e0f.png">
+<img width="1025" alt="Снимок экрана 2023-03-05 в 18 44 23" src="https://user-images.githubusercontent.com/126310621/222712095-394d3612-e2d7-4461-a71f-0e9e091b611c.png">
+<img width="1025" alt="Снимок экрана 2023-03-05 в 18 44 51" src="https://user-images.githubusercontent.com/126310621/222712177-15f2dd08-18ed-47b6-89b8-f948b5a666eb.png">
+<img width="1026" alt="Снимок экрана 2023-03-05 в 18 45 40" src="https://user-images.githubusercontent.com/126310621/222712319-b40e61d0-c73b-4b21-afea-c22bf75e3e85.png">
+
+</details>
+<details> 
+ <p> </p>
+
+</details>
+<details> 
+ <p> </p>
+
+</details>
+<details> 
+ <p> </p>
+
+</details>
+<details> 
+ <p> </p>
+
+</details>
