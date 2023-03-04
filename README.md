@@ -355,6 +355,9 @@
 
 Навыки написания тестовой документации: составление чек-листов и тест-кейсов.
 
+
+
+
 ## <a name="web-testing" />Тестирование веб-приложений. Второй проект.
 
 ### Задание
@@ -609,6 +612,13 @@ Firefox при разрешении экрана 1920x1080.<br>
 <img width="1025" alt="Снимок экрана 2023-03-05 в 18 44 23" src="https://user-images.githubusercontent.com/126310621/222712095-394d3612-e2d7-4461-a71f-0e9e091b611c.png">
 <img width="1025" alt="Снимок экрана 2023-03-05 в 18 44 51" src="https://user-images.githubusercontent.com/126310621/222712177-15f2dd08-18ed-47b6-89b8-f948b5a666eb.png">
 <img width="1026" alt="Снимок экрана 2023-03-05 в 18 45 40" src="https://user-images.githubusercontent.com/126310621/222712319-b40e61d0-c73b-4b21-afea-c22bf75e3e85.png">
+ <details>
+<summary><Баг-репорты</summary>
+<details>
+ <summary> Номер бага </summary>
+  ОПИСАНИЕ 
+ 
+ </details>
 
 </details>
 <details> 
@@ -634,6 +644,24 @@ Firefox при разрешении экрана 1920x1080.<br>
 <img width="882" alt="Снимок экрана 2023-03-05 в 19 18 19" src="https://user-images.githubusercontent.com/126310621/222718199-21753b9c-1c94-4e55-9044-039ae5574e53.png">
 
 </details>
+<details>
+<summary><Баг-репорты</summary>
+<details>
+ <summary> Номер бага </summary>
+  ОПИСАНИЕ 
+ 
+ </details>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </details>
 
 
 ## <a name="mobile-testing" /> Тестирование веб-приложений. Третий проект.
