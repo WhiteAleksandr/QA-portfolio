@@ -757,6 +757,8 @@ Firefox при разрешении экрана 1920x1080.<br>
 </details> 
 <details>
 <summary>Решение</summary>
+<img width="576" alt="Снимок экрана 2023-03-06 в 10 05 51" src="https://user-images.githubusercontent.com/126310621/222872765-a55b8b0d-7124-42f5-9866-74646051ea34.png">
+
 </details>
 
 [Наверх](#up)
@@ -792,4 +794,12 @@ Firefox при разрешении экрана 1920x1080.<br>
 (*) — задача со звёздочкой — задание, которое можно не сдавать. Оно не повлияет на результат итогового проекта.</p>
 
 <details>
-<summary> Решение </summary>          
+<summary> Решение </summary>   
+ <img width="698" alt="Снимок экрана 2023-03-06 в 10 13 18" src="https://user-images.githubusercontent.com/126310621/222873032-4bd35d89-db8e-4947-a24d-8009508bb7ce.png">
+<img width="698" alt="Снимок экрана 2023-03-06 в 10 14 41" src="https://user-images.githubusercontent.com/126310621/222873074-4a6b62fb-5968-4c50-9940-c407a4d78b34.png">
+<img width="697" alt="Снимок экрана 2023-03-06 в 10 15 14" src="https://user-images.githubusercontent.com/126310621/222873095-ed5c1393-7832-42c8-972f-5b4f70c9cdfb.png">
+<img width="696" alt="Снимок экрана 2023-03-06 в 10 15 48" src="https://user-images.githubusercontent.com/126310621/222873114-aa05770e-1b1f-46ab-bf5a-3a230034040f.png">
+<img width="697" alt="Снимок экрана 2023-03-06 в 10 16 24" src="https://user-images.githubusercontent.com/126310621/222873137-26d08723-1ed4-4f00-8014-d611dc0a6041.png">
+<img width="698" alt="Снимок экрана 2023-03-06 в 10 21 46" src="https://user-images.githubusercontent.com/126310621/222873324-d38fbbdf-a301-489c-b888-51623c6e95d2.png">
+
+ 
