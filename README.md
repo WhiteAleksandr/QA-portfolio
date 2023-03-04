@@ -182,9 +182,17 @@
 
 
 
-*Курсивом* выделены повторяющиеся проверки, ~~зачёркнутые~~ значения - оптимизация проверок
-
+ ~~зачёркнутые~~ значения - оптимизация проверок
+<details>
+<summary>Баг-репорты</summary>
+<details>
+ <summary> Номер бага </summary>
+  ОПИСАНИЕ 
+ 
+ </details>
+ </details>
 ***
+
 
 </details>
 
@@ -210,8 +218,8 @@
  ~~зачёркнутые~~ значения - оптимизация проверок
 
 ***
-
 </details>
+
 
 [Наверх](#up)
 
@@ -605,26 +613,27 @@ Firefox при разрешении экрана 1920x1080.<br>
 
 
 <details> 
-<p>Часть 1. Чек-лист на верстку </p>
+<summary>Часть 1. Чек-лист на верстку </summary>
 <img width="1027" alt="Снимок экрана 2023-03-05 в 18 42 09" src="https://user-images.githubusercontent.com/126310621/222711655-5d231ab7-3f6d-4105-8751-f58c85f516be.png">
 <img width="1025" alt="Снимок экрана 2023-03-05 в 18 43 12" src="https://user-images.githubusercontent.com/126310621/222711823-6d716bbf-7040-4619-8e95-45371528bf24.png">
 <img width="1029" alt="Снимок экрана 2023-03-05 в 18 43 48" src="https://user-images.githubusercontent.com/126310621/222711977-4965bb26-37cc-455f-85b7-037fec9e4e0f.png">
 <img width="1025" alt="Снимок экрана 2023-03-05 в 18 44 23" src="https://user-images.githubusercontent.com/126310621/222712095-394d3612-e2d7-4461-a71f-0e9e091b611c.png">
 <img width="1025" alt="Снимок экрана 2023-03-05 в 18 44 51" src="https://user-images.githubusercontent.com/126310621/222712177-15f2dd08-18ed-47b6-89b8-f948b5a666eb.png">
 <img width="1026" alt="Снимок экрана 2023-03-05 в 18 45 40" src="https://user-images.githubusercontent.com/126310621/222712319-b40e61d0-c73b-4b21-afea-c22bf75e3e85.png">
- <details>
-<summary><Баг-репорты</summary>
-<details>
- <summary> Номер бага </summary>
-  ОПИСАНИЕ 
- 
- </details>
+
 
 </details>
 <details> 
 <summary> Часть 1. Чек лист  способ оплаты и добавление карты</summary>
 <img width="868" alt="Снимок экрана 2023-03-05 в 19 13 10" src="https://user-images.githubusercontent.com/126310621/222717220-7169fbed-eef6-40c3-9163-bb7c5e2b4bec.png">
 <img width="869" alt="Снимок экрана 2023-03-05 в 19 13 40" src="https://user-images.githubusercontent.com/126310621/222717342-50be077d-c468-47f3-b481-90d4145dc375.png">
+ <details>
+ <summary>[BUG-1122477] </summary>
+  <img width="1123" alt="Снимок экрана 2023-03-06 в 12 18 33" src="https://user-images.githubusercontent.com/126310621/222877401-8170bd3c-af11-4fff-9386-56cfac997c8e.png">
+
+
+ </details>
+ 
 
 
 </details>
@@ -643,24 +652,7 @@ Firefox при разрешении экрана 1920x1080.<br>
 <summary>Часть 2. Чек-лист для Аэротакси </summary>
 <img width="882" alt="Снимок экрана 2023-03-05 в 19 18 19" src="https://user-images.githubusercontent.com/126310621/222718199-21753b9c-1c94-4e55-9044-039ae5574e53.png">
 
-</details>
-<details>
-<summary><Баг-репорты</summary>
-<details>
- <summary> Номер бага </summary>
-  ОПИСАНИЕ 
- 
- </details>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  </details>
 
 
