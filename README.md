@@ -943,5 +943,29 @@ Firefox при разрешении экрана 1920x1080.<br>
 <img width="696" alt="Снимок экрана 2023-03-06 в 10 15 48" src="https://user-images.githubusercontent.com/126310621/222873114-aa05770e-1b1f-46ab-bf5a-3a230034040f.png">
 <img width="697" alt="Снимок экрана 2023-03-06 в 10 16 24" src="https://user-images.githubusercontent.com/126310621/222873137-26d08723-1ed4-4f00-8014-d611dc0a6041.png">
 <img width="698" alt="Снимок экрана 2023-03-06 в 10 21 46" src="https://user-images.githubusercontent.com/126310621/222873324-d38fbbdf-a301-489c-b888-51623c6e95d2.png">
+<details>
+<summary>[BUG-1124704] </summary>
+<img width="1123" alt="Снимок экрана 2023-03-07 в 11 25 40" src="https://user-images.githubusercontent.com/126310621/222941644-007dcd66-ef40-4fbe-84d7-edc4267b567b.png">
 
- 
+</details>
+<details>
+<summary>[BUG-1123536] </summary>
+<img width="1114" alt="Снимок экрана 2023-03-07 в 11 26 28" src="https://user-images.githubusercontent.com/126310621/222941669-207e2828-8d63-4cae-bb86-53e7c4898a29.png">
+
+</details>
+ <details>
+<summary>[BUG-1123537] </summary>
+<img width="1129" alt="Снимок экрана 2023-03-07 в 11 27 38" src="https://user-images.githubusercontent.com/126310621/222941713-e817ffc8-5449-4f95-aac8-f3b6d92341ef.png">
+
+</details>
+<details>
+<summary>[BUG-1123602] </summary>
+<img width="1092" alt="Снимок экрана 2023-03-07 в 11 28 16" src="https://user-images.githubusercontent.com/126310621/222941724-42427697-cdb4-470a-83a5-9cecc3bf47b2.png">
+
+</details>
+<details>
+<summary>[BUG-1123527] </summary>
+<img width="1131" alt="Снимок экрана 2023-03-07 в 11 28 48" src="https://user-images.githubusercontent.com/126310621/222941736-79eb55a5-15ef-4a35-8e2d-1752b164a52b.png">
+
+</details>
+
