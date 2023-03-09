@@ -438,7 +438,7 @@ Firefox при разрешении экрана 1920x1080.<br>
 <p>Под названиями режимов появится информация о стоимости и продолжительности поездки, а также кнопка «Забронировать».</p>
 <img width="711" alt="Снимок экрана 2023-03-05 в 16 30 41" src="https://user-images.githubusercontent.com/126310621/222684281-e60fe35e-379f-41b6-957f-5db211443724.png">
 
-  <p>Если нажать кнопку «Забронировать», вместо панели с названиями режимов появится форма бронирования. В форме нужно выбрать тариф, добавить информацию о водительских правах, указать способ оплаты. Дополнительно можно перечислить требования к заказу. </p>
+<p>Если нажать кнопку «Забронировать», вместо панели с названиями режимов появится форма бронирования. В форме нужно выбрать тариф, добавить информацию о водительских правах, указать способ оплаты. Дополнительно можно перечислить требования к заказу. </p>
 
 <p>Под «Требованиями к заказу» расположена кнопка «Забронировать». См. таблицу [«Состояние кнопки»](https://www.notion.so/07f02ccc272e494db6501def032e9258).</p>
 
@@ -739,8 +739,6 @@ Firefox при разрешении экрана 1920x1080.<br>
 
 В процессе тестирования отмечай результаты выполнения теста: PASSED или FAILED. Если тест со статусом FAILED, заведи баг-репорт в YouTrack и впиши ID в соответствующую таблицу результатов.<br>
 
-Напиши отчёт о тестировании (*). Что можешь рассказать команде о статусе протестированной части продукта?<br>
-(*) — задача со звёздочкой — задание, которое можно не сдавать. Оно не повлияет на результат итогового проекта.</p>
 <details> 
 <summary>Требования 3.0  </summary>       
           
@@ -930,8 +928,7 @@ Firefox при разрешении экрана 1920x1080.<br>
 
 Протестируй API через Postman и заведи баг-репорты в Трекере, если это понадобится.<br>
 
-Напиши отчёт о тестировании (*). Что ты можешь рассказать команде о статусе протестированной части продукта?<br>
-(*) — задача со звёздочкой — задание, которое можно не сдавать. Оно не повлияет на результат итогового проекта.</p>
+
 
 <details>
 <summary> Решение </summary>   
@@ -1063,16 +1060,18 @@ description — краткое описание погодных условий.
 В ответе приложи:<br>
 полученную таблицу с данными за указанный период;<br>
 запрос, которым удалось решить задачу.</p>
-<detail>
+</detaisl>
+<details>
 <summary> Решение </summary>
-<detail>
+<details>
 <summary> Консоль </summary>
 
 ### Задание 1 <br>
 Команда или последовательность команд, которой удалось получить нужные логи:<br>
 grep -r "^233.201." ~/logs/2019/12<br>
-<img width="897" alt="Снимок экрана 2023-03-10 в 18 14 49" src="https://user-images.githubusercontent.com/126310621/223698952-fc17e636-3987-4a1a-963d-fa01c515e2bb.png">
-Логи:<br>
+<img width="897" alt="Снимок экрана 2023-03-10 в 18 14 49" src="https://user-images.githubusercontent.com/126310621/223698952-fc17e636-3987-4a1a-963d-fa01c515e2bb.png"><br>
+
+ Логи:<br>
 233.201.188.154 - - [18/12/2019:21:46:01 +0000] "DELETE /events HTTP/1.1" 403 3971<br>
 233.201.182.9 - - [21/12/2019:21:56:20 +0000] "PATCH /users HTTP/1.1" 400 4118<br>
 <br>
@@ -1195,9 +1194,114 @@ grep -n "HTTP/1.1. 400" ~/bug1/main.txt >> ~/bug1/events/400.txt <br>
 378:127:178.22.133.42 - - [31/12/2019:21:39:43 +0000] "PUT /alerts HTTP/1.1" 500 4648<br>
 390:139:102.247.13.50 - - [31/12/2019:21:39:55 +0000] "PATCH /auth HTTP/1.1" 500 3736<br>
 <br>
-</detail>
-<detail>
-<summaru> База Данных </summaru>
+
+</details>
+<details>
+<summary> База Данных </summary>
+
+### Задание 1 <br>
+Число автомобилей:<br>
+ 5500<br>
+<br>
+Запрос, которым тебе удалось решить задачу.<br>
+SELECT COUNT(DISTINCT vehicle_id) FROM cabs<br>
+<br>
+<br>
  
-</detail>
-</detail>
+### Задание 2 <br>
+Список компаний с числом автомобилей меньше 100.<br>
+97 | Nova Taxi Affiliation Llc<br>
+ 89 | Patriot Taxi Dba Peace Taxi Associat<br>
+ 85 | Blue Diamond<br>
+ 81 | Checker Taxi Affiliation<br>
+ 80 | Chicago Medallion Management<br>
+ 69 | Chicago Independents<br>
+ 67 | 24 Seven Taxi<br>
+ 60 | Checker Taxi<br>
+ 55 | American United<br>
+ 53 | Chicago Medallion Leasing INC<br>
+ 49 | Top Cab Affiliation<br>
+ 48 | KOAM Taxi Association<br>
+ 38 | Chicago Taxicab<br>
+ 34 | Norshore Cab<br>
+ 20 | Gold Coast Taxi<br>
+ 20 | Metro Group<br>
+ 18 | Service Taxi Association<br>
+ 14 | 5 Star Taxi<br>
+ 8 | American United Taxi Affiliation<br>
+ 8 | Metro Jet Taxi A<br>
+ 7 | Setare Inc<br>
+ 5 | Leonard Cab Co<br>
+ 1 | 4615 - 83503 Tyrone Henderson<br>
+ 1 | 5062 - 34841 Sam Mestas<br>
+ 1 | 4623 - 27290 Jay Kim<br>
+ 1 | 5997 - 65283 AW Services Inc.<br>
+ 1 | 2092 - 61288 Sbeih company<br>
+ 1 | 1469 - 64126 Omar Jada<br>
+ 1 | 2733 - 74600 Benny Jona<br>
+ 1 | 2192 - 73487 Zeymane Corp<br>
+ 1 | 5006 - 39261 Salifu Bawa<br>
+ 1 | 3556 - 36214 RC Andrews Cab<br>
+ 1 | 3721 - Santamaria Express, Alvaro Santamaria<br>
+ 1 | 2809 - 95474 C & D Cab Co Inc.<br>
+ 1 | 2241 - 44667 - Felman Corp, Manuel Alonso<br>
+ 1 | 3620 - 52292 David K. Cab Corp.<br>
+ 1 | 2823 - 73307 Lee Express Inc<br>
+ 1 | 6057 - 24657 Richard Addo<br>
+ 1 | 6742 - 83735 Tasha ride inc<br>
+ 1 | 1085 - 72312 N and W Cab Co<br>
+ 1 | 3591 - 63480 Chuks Cab<br>
+ 1 | 0118 - 42111 Godfrey S.Awir<br>
+ 1 | 6574 - Babylon Express Inc.<br>
+ 1 | 3094 - 24059 G.L.B. Cab Co<br>
+1 | 5874 - 73628 Sergey Cab Corp.<br>
+ 1 | 6743 - 78771 Luhak Corp<br>
+ 1 | 5074 - 54002 Ahzmi Inc<br>
+ 1 | 3623 - 72222 Arrington Enterprises<br>
+ 1 | 4053 - 40193 Adwar H. Nikola<br>
+ 1 | Chicago Star Taxicab<br>
+ 1 | 3011 - 66308 JBL Cab Inc.<br>
+<br>
+<br>
+Запрос, которым тебе удалось решить задачу.<br>
+SELECT COUNT(vehicle_id) AS cnt, company_name FROM cabs GROUP BY company_name HAVING COUNT(vehicle_id) < 100 ORDER BY cnt DESC;<br>
+<br>
+ 
+### Задание 3 <br>
+Таблица с данными за указанный период. <br>
+ ts | weather_conditions <br>
+<br>
+ 2017-11-05 04:00:00 | Bad<br>
+ 2017-11-05 05:00:00 | Bad<br>
+ 2017-11-05 06:00:00 | Good<br>
+ 2017-11-05 07:00:00 | Good<br>
+ 2017-11-05 08:00:00 | Good<br>
+ 2017-11-05 09:00:00 | Good<br>
+ 2017-11-05 10:00:00 | Good<br>
+ 2017-11-05 11:00:00 | Good<br>
+ 2017-11-05 12:00:00 | Good<br>
+ 2017-11-05 13:00:00 | Good<br>
+ 2017-11-05 14:00:00 | Bad<br>
+ 2017-11-05 15:00:00 | Good<br>
+ 2017-11-05 16:00:00 | Bad<br>
+ 2017-11-05 17:00:00 | Good<br>
+ 2017-11-05 18:00:00 | Bad<br>
+ 2017-11-05 19:00:00 | Bad<br>
+ 2017-11-05 20:00:00 | Bad<br>
+ 2017-11-05 21:00:00 | Good<br>
+ 2017-11-05 22:00:00 | Good<br>
+ 2017-11-05 23:00:00 | Good<br>
+ 2017-11-06 00:00:00 | Good<br>
+Запрос, которым удалось решить задачу.<br>
+SELECT ts, CASE WHEN description LIKE '%rain%' OR description LIKE '%storm%' THEN 'Bad’ ELSE 'Good’ END AS weather_conditions FROM weather_records WHERE ts BETWEEN '2017-11-05 00:00' AND '2017-11-06 00:00’;<br>
+
+### Задание 4 <br>
+Таблица с данными за указанный период.<br>
+<img width="719" alt="Снимок экрана 2023-03-11 в 10 54 59" src="https://user-images.githubusercontent.com/126310621/223912622-a0702b12-af58-4c95-9f4e-b408c60316ce.png">
+<img width="707" alt="Снимок экрана 2023-03-11 в 10 55 21" src="https://user-images.githubusercontent.com/126310621/223912673-7d78d6ed-5507-4e52-ab50-8224eed8bc12.png">
+ 
+Запрос, которым удалось решить задачу.<br>
+SELECT cabs.company_name AS company_name, COUNT(trips.trip_id) AS trips_amount FROM cabs INNER JOIN trips ON cabs.cab_id = trips.cab_id WHERE trips.start_ts BETWEEN '2017-11-15' AND '2017-11-16 23:59:59' GROUP BY cabs.company_name ORDER BY trips_amount DESC;
+<br> 
+</details>
+</details>
